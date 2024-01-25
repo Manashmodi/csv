@@ -1,0 +1,13 @@
+ID,Name,Age,Sex,Email,Phone
+1,Manash,22,Male,modi@example.com,9608966421
+2,Gaurav,22,Male,jane@example.com,+9876543210
+3,"John Doe",25,Male,john@example.com,+1234567890
+4,"Jane Smith",30,Female,jane@example.com,+9876543210
+5,"Alice Johnson",28,Female,alice@example.com,+1122334455
+6,"Bob Brown",35,Male,bob@example.com,+9988776655
+7,"Eva White",22,Female,eva@example.com,+5544332211
+8,"Charlie Wilson",40,Male,charlie@example.com,+6677889900
+9,"Grace Miller",27,Female,grace@example.com,+1231234567
+10,"David Lee",32,Male,david@example.com,+8765432109
+11,"Sophia Turner",29,Female,sophia@example.com,+4567890123
+12,"James Baker",38,Male,james@example.com,+9876543210
